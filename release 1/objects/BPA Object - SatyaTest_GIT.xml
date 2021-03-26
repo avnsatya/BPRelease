@@ -1,4 +1,4 @@
-﻿<process name="Test" version="1.0" bpversion="6.5.0.12573" narrative="An example business object" byrefcollection="true" type="object" runmode="Exclusive" preferredid="2cb7659a-4d6b-4afc-80fe-cf6174fbf6ac">
+﻿<process name="SatyaTest_GIT" version="1.0" bpversion="6.5.0.12573" narrative="An example business object" byrefcollection="true" type="object" runmode="Exclusive" preferredid="2cb7659a-4d6b-4afc-80fe-cf6174fbf6ac">
   <appdef>
     <element name="Test">
       <id>57f7d101-3e4f-4809-b2f4-1449c60290d8</id>
